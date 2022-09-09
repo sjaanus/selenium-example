@@ -1,0 +1,8 @@
+Test cases:
+1) searchItemTest - this test case makes sure that item search functionality on the webpage works as expected.
+
+2) addToCartTest - this test case makes sure that adding items to cart functionality works correctly on the webpage.
+
+3) purchaseItemTest - this test case goes through the product full buying flow and makes sure it is working as intended.
+
+4) discountCodeTest - this test case is the failing test case which verifies that the discount code functionality works correctly as the provided discount code is incorrect the test case fails.
